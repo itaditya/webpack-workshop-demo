@@ -12,6 +12,7 @@
 .load-image {
   display: block;
   padding: 20px 10px;
+  /* background color */
   background-color: rebeccapurple;
   color: #fff;
   font-size: 32px;

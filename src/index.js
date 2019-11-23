@@ -3,4 +3,4 @@ import './App.js';
 
 import './style.css';
 
-console.log('hello dev server');
+console.log('hello hashes');
