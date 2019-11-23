@@ -1,3 +1,5 @@
 import './script.js';
 
-console.log('hello, world!');
+import './style.css';
+
+console.log('hello!');
