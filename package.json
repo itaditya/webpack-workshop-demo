@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "serve -s dist",
+    "dev": "webpack-dev-server --mode development",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,7 @@
     "mini-css-extract-plugin": "^0.8.0",
     "style-loader": "^1.0.0",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
   }
 }

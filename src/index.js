@@ -2,4 +2,4 @@ import './script.js';
 
 import './style.css';
 
-console.log('hello!');
+console.log('hello dev server');
